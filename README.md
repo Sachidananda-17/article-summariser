@@ -16,7 +16,7 @@
     Easy to summarize website
     <br />
     <br />
-    <a href="https://briefly-delta.vercel.app/" target="_blank">View Demo</a>
+    <a href="https://github.com/Sachidananda-17/article-summariser/blob/main/images/test-1.png" target="_blank">View Demo</a>
   </p>
 </div>
 
