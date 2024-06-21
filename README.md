@@ -27,7 +27,7 @@
 
 
 
-![https://i.hizliresim.com/hec23oz.png](briefly-main\images\test-1.png)
+![briefly-main\images\test-1.png](briefly-main\images\test-1.png)
 
 
 
