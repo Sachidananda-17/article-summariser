@@ -25,8 +25,8 @@
 <!-- GETTING STARTED -->
 <ul>
   <li> clone the repo</li>
-  <li> Install the package.json file using the commmand ` npm install `</li>
-  <li> Run the app in the local server using the command ` npm run dev`</li>
+  <li> Install the package.json file using the commmand  `npm install`</li>
+  <li> Run the app in the local server using the command `npm install`</li>
 </ul>
 
 
