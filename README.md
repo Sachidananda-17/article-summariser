@@ -22,7 +22,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## <strong>About The Project</strong>
+
 
 
 
