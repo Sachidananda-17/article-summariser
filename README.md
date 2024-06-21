@@ -27,7 +27,9 @@
 
 
 
-![briefly-main\images\test-1.png](briefly-main\images\test-1.png)
+<div align = "center">
+  <img src= " https://github.com/Sachidananda-17/article-summariser/blob/main/images/test-1.png">
+</div>
 
 
 
