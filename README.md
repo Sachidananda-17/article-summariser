@@ -1,11 +1,6 @@
 
 
 <a name="readme-top"></a>
-
-
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -21,25 +16,18 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-
-
-
-
-
-
 <div align = "center">
   <img src= " https://github.com/Sachidananda-17/article-summariser/blob/main/images/test-1.png">
 </div>
-
-
-
-
-
 <br/>
-
 <br />
 
 <!-- GETTING STARTED -->
+<ul>
+  <li> clone the repo</li>
+  <li> Install the package.json file using the commmand ` npm install `</li>
+  <li> Run the app in the local server using the command ` npm run dev`</li>
+</ul>
 
 
 
