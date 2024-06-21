@@ -23,11 +23,14 @@
 <br />
 
 <!-- GETTING STARTED -->
-<ul>
-  <li> clone the repo</li>
-  <li> Install the package.json file using the commmand  `npm install`</li>
-  <li> Run the app in the local server using the command `npm install`</li>
-</ul>
+## <strong>Getting Started</strong>
+
+1\.   clone the repo.
+
+2\.   Install the package.json file using the commmand  `npm install`.
+
+3\.   Run the app in the local server using the command `npm install`.
+
 
 
 
